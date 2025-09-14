@@ -30,11 +30,6 @@ RANKX(
 
 Tableou:
 
-Calculated field 1:
-```
-SUM([stock_actual])
-```
-
 
 Calculated field 2:
 ```
@@ -55,7 +50,8 @@ DAX:
 Ventas Totales = SUM(ventas_techstore[cantidad])
 ```
 
-<img width="1279" height="625" alt="image" src="https://github.com/user-attachments/assets/ea7c6665-1440-4ea3-86f5-b2661ac8a03c" />
+<img width="1057" height="615" alt="image" src="https://github.com/user-attachments/assets/f9bb0b4e-efe4-41fb-905f-d091b48bc3a2" />
+
 
 
 
@@ -64,5 +60,31 @@ Calculated Field:
 ```
 SUM([venta_total])
 ```
+
+
+<img width="372" height="193" alt="image" src="https://github.com/user-attachments/assets/688047e1-209e-4016-982e-04710e13c67e" />
+
+
+
+POWER BI:
+
+DEX:
+
+```
+Ventas Totales = SUM(ventas_techstore[cantidad])
+```
+<img width="201" height="135" alt="image" src="https://github.com/user-attachments/assets/ed634af5-68b5-454d-8a4b-9159b314b7f6" />
+
+
+Tableau:
+
+Calculated Field:
+```
+(SUM([ventas_techstore].[Cantidad]))
+```
+
+<img width="301" height="203" alt="image" src="https://github.com/user-attachments/assets/bbf071b3-36c4-4a6c-ac89-347ae739c165" />
+
+
 
 
