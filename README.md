@@ -19,10 +19,14 @@ El dataset está compuesto por cuatro archivos CSV:
    
 - **Gráfico de Líneas:** Ventas por mes
 
+Nota: Teniendo en cuenta que los datos de ventas se limitan a dos meses, se filtraron por mes y dia.
+
 Power BI:
 
-<img width="1207" height="654" alt="image" src="https://github.com/user-attachments/assets/dc0b1a7f-8b8a-4f8b-9096-5814d5a9b297" />
+<img width="1172" height="645" alt="image" src="https://github.com/user-attachments/assets/9906e1ed-5b36-4960-80e0-fb2975e0f0ef" />
 
+
+**DAX:** Se crea un DAX con las ventas totales. 
 ```
 Ventas Totales = SUM(ventas_techstore[cantidad])
 ```
@@ -30,31 +34,33 @@ Ventas Totales = SUM(ventas_techstore[cantidad])
 
 Tableau:
 
-<img width="449" height="819" alt="image" src="https://github.com/user-attachments/assets/ad2a92fb-9d42-44a9-83d1-1c60b3c7b103" />
+<img width="1219" height="815" alt="image" src="https://github.com/user-attachments/assets/410574eb-7fc9-42ac-8f9f-b041941802b7" />
 
-Calculated field:
+**Calculated field:** Se suman las ventas totales.
 ```
 (SUM([ventas_techstore].[Cantidad]))
 ```
 
 ---
 
-- **Gráfico de Barras:** Top 10 productos por ventas
+- **Gráfico de Barras:** Top 10 productos 
+
+**Nota:** Teniendo en cuenta los datos se usó el stock como medida para "listar" los top 10 productos.
 
 Power BI:
 
-DAX 2:
+**DAX 1:** Se crea el Stock por producto.
 
 ```
 Stock = SUM(productos[stock_actual])
 ```
 
-DAX 2:
+**DAX 2:** Se listan los productos reutilizando el primer DAX y se ordenan descendentemente.
 
 ```
 Ranking Productos = 
 RANKX(
-    ALL(productos[nombre_producto]),  -- Calcula el ranking de todos los productos sin filtros
+    ALL(productos[nombre_producto]),  -- Calcula el ranking de todos los productos
     [Stock],                   -- Usa el otro DAX
     ,                          
     DESC,                      -- Orden descendente 
@@ -83,10 +89,11 @@ SUM([stock_actual])
 
 - **Gráfico de Pie:** Ventas por categoría
 
+**Nota**: Aqui se reutilizo el dax para ventas totales. Se agrupo junto a categoría.
 
 Power BI:
 
-DAX:
+DAX: Ventas totales.
 ```
 Ventas Totales = SUM(ventas_techstore[cantidad])
 ```
@@ -95,7 +102,7 @@ Ventas Totales = SUM(ventas_techstore[cantidad])
 
 ---
 
-Tableau:
+Tableau: Ventas totales.
 
 Calculated Field:
 
@@ -110,6 +117,7 @@ SUM([venta_total])
 
  - **Gráfico de Tabla:** Performance de vendedores (ventas, clientes atendidos)
 
+**Nota:** Se agruparon con Dax y calculated field la venta total por cada uno de los vendedores.
 
 POWER BI:
 
@@ -136,6 +144,6 @@ Calculated Field:
 
 Crear el dashboard en Power BI fue un proceso bastante directo. La interfaz es muy intuitiva: cargas los datos, defines relaciones y construyes visualizaciones sin demasiada fricción. DAX ayuda a crear medidas personalizadas de forma sencilla y, con algo de apoyo en documentación o IA, es fácil entender y replicar el código. En general, fue rápido armar el dashboard y el resultado se ve limpio y profesional.
 
-En Tableau, la experiencia es distinta. Es una herramienta que invita más a explorar los datos y probar diferentes visualizaciones. Las calculated fields son fáciles de entender y conectar tablas es bastante simple. Además, permite crear dashboards muy interactivos gracias a las acciones entre hojas, lo que da un resultado final más dinámico. Sin embargo, el proceso toma más tiempo, ya que cada visual debe construirse en una hoja y luego agregarse manualmente al dashboard. Además, la interfaz me resultó un poco menos intuitiva que la de Power BI.
+En Tableau, la experiencia es distinta. Es una herramienta que invita más a explorar los datos y probar diferentes visualizaciones. Arrastrar los atributos hacia las columnas y filas también fue bastante intuitivo, las calculated fields son fáciles de entender y conectar tablas es bastante simple con su interfaz interactiva de "Fuente de datos" parecido a SQL. Además, permite crear dashboards muy interactivos gracias a las acciones entre hojas, lo que da un resultado final más dinámico. Sin embargo, el proceso toma más tiempo, ya que cada visual debe construirse en una hoja y luego agregarse manualmente al dashboard. Además, la interfaz me resultó un poco menos intuitiva que la de Power BI.
 
-Otro punto importante es el costo: Power BI tiene una versión de escritorio gratuita, mientras que Tableau requiere una licencia de pago, en conclusión, la experiencia en Power BI fue más rápida y eficiente, ideal si se busca construir un dashboard de forma ágil y sin gastar mucho.
+Además, Power BI tiene una versión de escritorio gratuita, mientras que Tableau requiere una licencia de pago, en conclusión, la experiencia en Power BI fue más rápida y eficiente siendo un poco más intuitiva para alguien inexperto, es ideal si se busca construir un dashboard de forma ágil y sin gastar dinero.
