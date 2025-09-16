@@ -82,8 +82,8 @@ Calculated field 2:
 ```
 SUM([stock_actual])
 ```
+<img width="688" height="813" alt="image" src="https://github.com/user-attachments/assets/03060f43-7638-426a-a20e-5858bdad4847" />
 
-<img width="767" height="821" alt="image" src="https://github.com/user-attachments/assets/63a21082-1c5d-4c2b-a62a-40feb4c274a0" />
 
 ---
 
