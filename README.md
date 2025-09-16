@@ -140,6 +140,38 @@ Calculated Field:
 
 ---
 
+KPI:
+Se relacionaron las ganancias desdeadas (metas mensuales) con las obtenidas, para eso se crearon dos DEX:
+
+DEX 1: Calcula el precio final de ganancias o dinero obtenido en los primeros dos meses.
+
+```
+Precio Ventas Totales 2M = 
+CALCULATE (
+    SUMX (
+        ventas_techstore,
+        ventas_techstore[cantidad] * ventas_techstore[precio_unitario] * (1 - ventas_techstore[descuento])
+    ),
+    MONTH ( ventas_techstore[fecha] ) IN { 1, 2 }
+)
+```
+
+DEX 2: Calcula la meta de ventas o ganancias en los dos primeros meses.
+
+```
+Meta Ventas 2M = 
+CALCULATE (
+    SUM ( metas_mensuales[meta_ventas] ),
+    metas_mensuales[mes] IN { 1, 2 }
+)
+```
+
+<img width="465" height="317" alt="image" src="https://github.com/user-attachments/assets/a90e0ffe-a0e6-479a-850a-8917db22a856" />
+
+
+El análisis final evidencia un cumplimiento del 49,81% respecto a la meta establecida, lo que representa un 50,19% por debajo de las ganancias esperadas.
+---
+
 # Comparación de herramientas:
 
 Crear el dashboard en Power BI fue un proceso bastante directo. La interfaz es muy intuitiva: cargas los datos, defines relaciones y construyes visualizaciones sin demasiada fricción. DAX ayuda a crear medidas personalizadas de forma sencilla y, con algo de apoyo en documentación o IA, es fácil entender y replicar el código. En general, fue rápido armar el dashboard y el resultado se ve limpio y profesional.
