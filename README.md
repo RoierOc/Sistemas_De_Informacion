@@ -30,10 +30,10 @@ Para llevar a cabo una evaluación completa y objetiva del CRM, se consideran lo
 
 ### Licenciamiento flexible
 –  Dynamics 365 se licencia por usuario/módulo.  
-–  Ejemplo: **Sales desde US$65/usuario/mes**, **Business Central desde US$80 Essentials*–  hasta **US$110 Premium**.  
+–  Ejemplo: **Sales desde US$65/usuario/mes**, Business Central desde US$80 Essentials  hasta **US$110 Premium**.  
 –  Permite licencias “attach” más baratas si un mismo usuario usa varios módulos.  
 
-0### Modelo SaaS
+### Modelo SaaS
 –  Sin inversión en hardware.  
 –  Incluye **hosting en Azure**, actualizaciones y seguridad.  
 
@@ -47,7 +47,7 @@ Para llevar a cabo una evaluación completa y objetiva del CRM, se consideran lo
 –  **Zoho**: el más barato (**US$30/usuario/mes**), pero limitado en procesos complejos y localización.  
 
 ### Valor
-–  **Dynamics 365*–  ofrece el **mejor balance entre costo y funcionalidades avanzadas**, con un TCO más bajo que SAP o NetSuite al integrar **CRM –  ERP –  E-commerce*–  sin depender de terceros.  
+- Dynamics 365 ofrece el **mejor balance entre costo y funcionalidades avanzadas**, con un TCO más bajo que SAP o NetSuite al integrar CRM –  ERP –  E-commerce sin depender de terceros.  
 
 ---
 
@@ -65,14 +65,14 @@ Para llevar a cabo una evaluación completa y objetiva del CRM, se consideran lo
   –  Capacidad de respuesta mejorada al cliente.  
 
 ### Integración tecnológica
-–  Ecosistema **Microsoft*–  con:
-  –  **Power BI*–  (analítica).  
-  –  **Power Automate*–  (automatización).  
-  –  **Azure AI*–  (inteligencia artificial).  
-  –  Más de **500 conectores*–  para plataformas e-commerce (Shopify, PayU, etc.).  
+–  Ecosistema Microsoft con:
+  – Power BI  (analítica).  
+  – Power Automate  (automatización).  
+  – Azure AI  (inteligencia artificial).  
+  – Más de 500 conectores  para plataformas e-commerce (Shopify, PayU, etc.).  
 
 ### Ecosistema en Colombia
-–  **Localización DIAN certificada*–  (facturación electrónica, NIIF, impuestos).  
+–  Localización DIAN certificada  (facturación electrónica, NIIF, impuestos).  
 –  Amplia red de partners locales (AlfaPeople, KPMG, Arbela, etc.).  
 –  Comunidad activa y soporte oficial en español.
 
@@ -149,6 +149,7 @@ En lo económico, aunque requiere una inversión mensual moderada, ofrece un bal
 En lo organizativo, la adopción es más ágil gracias a la familiaridad del entorno Office y la amplia red de partners en Colombia, lo que facilita localización, soporte y capacitación.
 
 Sin embargo, su éxito depende de una implementación planificada, con gestión del cambio, personalización guiada por expertos y una estrategia clara de seguridad de datos. Si estos aspectos se cumplen, Dynamics 365 se convierte en un pilar estratégico para empresas tecnológicas, brindando eficiencia, diferenciación competitiva y crecimiento sostenible.
+
 
 
 
