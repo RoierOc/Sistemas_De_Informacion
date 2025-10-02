@@ -1,4 +1,4 @@
-  # Análisis ERP "Microsoft dynamics 365"
+  # Análisis CRM "Microsoft dynamics 365"
 **Sector:** Tecnología
 **Grupo:**  
 
@@ -8,8 +8,8 @@
 –  Valentina Gutierrez Pereira
 
 ## Introducción
-En el sector tecnológico, una rapida respuesta y la capacidad para generar diferenciacion son puntos claves para mantener la competitividad. Las empresas en este ámbito suelen manejar grandes volúmenes de datos, equipos distribuidos globalmente y procesos que cambian rápidamente. Para lograr una buena coordinacion, los **CRM(Curtomer relationship management )*–  se vuelven una pieza fundamental: nos permiten centralizar la información y permiten una visión integral de la organización.
-por ende el siguiente trabajo tiene la intencion de analisar uno de estos **CRM *–  ,mas concretamente el CRM que nos aporta **Microsoft Dynamics 365**, de esta forma podemos visualisar mas concretamente las herramientas que nos presenta un CRM y como podemos aprovecharlo en un entorno especifico dado. de tal manera que la descripcion detallada de este CRM que nos ayude como pilar de apoyo para futuros interesados en esta herramienta.
+En el sector tecnológico, una rapida respuesta y la capacidad para generar diferenciacion son puntos claves para mantener la competitividad. Las empresas en este ámbito suelen manejar grandes volúmenes de datos, equipos distribuidos globalmente y procesos que cambian rápidamente. Para lograr una buena coordinacion, los **CRM(Customer relationship management )*–  se vuelven una pieza fundamental: nos permiten centralizar la información y permiten una visión integral de la organización.
+por ende el siguiente trabajo tiene la intencion de analisar uno de estos **CRM *–  ,mas concretamente el CRM que nos aporta **Microsoft Dynamics 365**, de esta forma podemos visualisar mas correctamente las herramientas que nos presenta un CRM y como podemos aprovecharlo en un entorno especifico dado. de tal manera que la descripcion detallada de este CRM que nos ayuda como pilar de apoyo para futuros interesados en esta herramienta.
 
 Para llevar a cabo una evaluación completa y objetiva del CRM, se consideran los criterios principales clave para la selección:
 
