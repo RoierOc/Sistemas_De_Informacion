@@ -98,22 +98,37 @@ En primer lugar, resulta fundamental considerar los componentes de hardware y so
 
 ## 1. Desafíos principales
 
-- **Integración con la plataforma de e-commerce**: Conectar Dynamics 365 CRM con sistemas como Shopify, Magento o WooCommerce puede requerir desarrollos adicionales o módulos específicos, lo cual incrementa la complejidad inicial.  
-- **Gestión del cambio en los equipos**: Los equipos de ventas, marketing y soporte deben acostumbrarse a un flujo de trabajo centralizado en el CRM. Si no se acompaña con capacitación, la resistencia al cambio puede frenar la adopción.  
-- **Personalización avanzada**: Aunque la herramienta es flexible, adaptar procesos específicos del e-commerce tecnológico (renovaciones de suscripciones, garantías extendidas, bundles de productos digitales) puede ser un reto si no se cuenta con consultores expertos.  
-- **Costos de licenciamiento y escalabilidad**: La inversión en Dynamics 365 CRM puede resultar significativa para empresas pequeñas o medianas, especialmente al sumar complementos como Power BI o integraciones con Azure.  
-- **Seguridad y manejo de datos sensibles**: En e-commerce tecnológico, donde se gestionan datos de clientes, licencias y suscripciones, garantizar el cumplimiento de normativas es un desafío constante.  
+– **Integración con la plataforma de e-commerce:** aunque Dynamics 365 ofrece conectores nativos, la integración con Shopify, Magento o WooCommerce puede requerir configuraciones adicionales y soporte de partners locales.
+– **Gestión del cambio en los equipos:** la adopción de un CRM centralizado requiere acompañamiento, capacitaciones y comunicación interna para reducir la resistencia al cambio.
+– **Personalización avanzada:** adaptar el ERP a procesos propios del sector tecnológico (suscripciones en la nube, licencias de software, garantías extendidas) implica contar con consultores certificados.
+– **Costos de licenciamiento y escalabilidad:** aunque es más flexible que SAP y NetSuite, la inversión mensual en usuarios y módulos puede ser un reto para empresas medianas.
+– **Seguridad y cumplimiento normativo:** se debe asegurar la correcta implementación de facturación electrónica, protección de datos personales (Habeas Data en Colombia) y estándares internacionales de seguridad (ISO 27001, GDPR).
 
+## 2. Documentación esencial
 
---–  
+Para garantizar una implementación exitosa se recomienda:
 
-## 1. Documentación esencial
+Plan de proyecto ERP: cronograma de fases, responsables y entregables claros.
 
---–  
+Mapa de procesos actuales vs. futuros: identificar qué procesos se automatizan, cuáles se adaptan y cuáles se eliminan.
 
+Manual de usuario interno: documentación adaptada a cada rol (ventas, marketing, soporte, finanzas).
 
+Políticas de seguridad y respaldo de datos: establecer protocolos de acceso, recuperación ante desastres y cumplimiento de normativas locales.
 
-## Conclusiones 
+Acuerdos con el proveedor/partner: SLA de soporte, tiempos de respuesta, actualizaciones y costos asociados.
+
+Capacitación continua: guías, talleres y sesiones de refuerzo para asegurar la adopción.
+
+## Conclusiones
+
+El análisis realizado demuestra que Microsoft Dynamics 365 es una de las soluciones más sólidas para el sector tecnológico en Colombia, gracias a su integración nativa con el ecosistema Microsoft, su capacidad de analítica avanzada y su adaptabilidad a modelos de negocio digitales.
+
+En términos funcionales, permite gestionar de forma integral el ciclo de vida del cliente, desde la captación hasta la postventa, con una visión 360° apoyada en inteligencia artificial.
+En lo económico, aunque requiere una inversión mensual moderada, ofrece un balance adecuado entre costo y valor, superando a SAP y NetSuite en flexibilidad y escalabilidad.
+En lo organizativo, la adopción es más ágil gracias a la familiaridad del entorno Office y la amplia red de partners en Colombia, lo que facilita localización, soporte y capacitación.
+
+Sin embargo, su éxito depende de una implementación planificada, con gestión del cambio, personalización guiada por expertos y una estrategia clara de seguridad de datos. Si estos aspectos se cumplen, Dynamics 365 se convierte en un pilar estratégico para empresas tecnológicas, brindando eficiencia, diferenciación competitiva y crecimiento sostenible.
 
 
 
