@@ -3,9 +3,13 @@
 **Grupo:**  
 
 –  Roger Fabian Bonilla Caro
+
 –  Wilson Franco Martínez
+
 –  Juan David Alarcon Sanabria
+
 –  Valentina Gutierrez Pereira
+
 -  Nicolas Fajardo Ramirez
 
 ## Introducción
@@ -107,10 +111,6 @@ Una vez definidos los criterios de selección y justificada la elección del ERP
 
 En primer lugar, resulta fundamental considerar los componentes de hardware y software básico necesarios para garantizar la correcta instalación, operación y escalabilidad del sistema. En segundo lugar, se deben analizar las licencias del ERP, que representan una proporción significativa de la inversión total.
 
-## 1. Hardware y software básico
-
----
-## 2. Licencias del ERP
 
 ---
 
