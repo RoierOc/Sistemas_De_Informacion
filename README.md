@@ -24,3 +24,30 @@ Para llevar a cabo una evaluación completa y objetiva del ERP, se consideran lo
 ## 4. Criterios organizativos 
 ## 5. Evaluación de proveedores 
 
+## Análisis Económico 
+Una vez definidos los criterios de selección y justificada la elección del ERP más adecuado para el sector de tecnología en servicio al cliente, es indispensable profundizar en el análisis económico detallado. Este análisis permite dimensionar con claridad la inversión requerida no solo en términos de licenciamiento del software, sino también en la infraestructura tecnológica que soportará su operación.
+
+En primer lugar, resulta fundamental considerar los componentes de hardware y software básico necesarios para garantizar la correcta instalación, operación y escalabilidad del sistema. En segundo lugar, se deben analizar las licencias del ERP, que representan una proporción significativa de la inversión total.
+
+## 1. Hardware y software básico
+## 2. Licencias del ERP
+
+## Proceso de implementación ERP
+
+## 1. Desafíos principales
+## 1. Documentación esencial
+
+## Conclusiones 
+
+
+
+
+
+
+
+
+
+
+
+
+
