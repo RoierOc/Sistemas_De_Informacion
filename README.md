@@ -1,6 +1,7 @@
   # Análisis ERP "Microsoft dynamics 365"
-**Sector: **Tecnología
-Grupo: 
+**Sector:** Tecnología
+**Grupo:**  
+
 –  Roger Fabian Bonilla Caro
 –  Wilson Franco Martínez
 –  Juan David Alarcon Sanabria
@@ -13,10 +14,12 @@ por ende el siguiente trabajo tiene la intencion de analisar uno de estos **CRM 
 Para llevar a cabo una evaluación completa y objetiva del CRM, se consideran los criterios principales clave para la selección:
 
 ## 1. Criterios funcionales
-–  **Cobertura de procesos clave**: Dynamics 365 integra ERP y CRM, lo que permite gestionar desde finanzas y operaciones hasta ventas, proyectos y atención al cliente.  
-–  **Adaptabilidad a empresas tecnológicas**: ofrece módulos específicos para proyectos ágiles, colaboración en la nube y gestión de innovación, muy útiles en startups o empresas de software.  
-–  **Experiencia de usuario**: su interfaz es familiar para quienes ya usan aplicaciones de Microsoft como Office, lo que facilita la adopción.  
-–  **Analítica avanzada**: gracias a Power BI e IA, permite decisiones estratégicas basadas en datos en tiempo real.
+
+- **Cobertura de procesos clave**: Dynamics 365 CRM destaca al centralizar la gestión del ciclo de vida del cliente, desde la captación en campañas digitales hasta la atención postventa. En el e-commerce tecnológico, esto se traduce en la posibilidad de integrar carritos de compra, historial de interacciones y programas de fidelización en una sola plataforma, fortaleciendo la relación con clientes y partners estratégicos.  
+- **Adaptabilidad a e-commerce tecnológico**: Su flexibilidad permite gestionar procesos de ventas digitales complejos, como licencias de software, suscripciones en la nube o dispositivos con soporte extendido. Además, facilita la colaboración ágil entre equipos distribuidos, una característica clave en empresas tecnológicas que operan en entornos altamente competitivos y globales.  
+- **Experiencia de usuario**: La interfaz de Dynamics 365 se conecta de manera fluida con herramientas ampliamente utilizadas como Outlook, Teams y Office 365. Esto no solo reduce la curva de aprendizaje, sino que mejora la eficiencia de equipos de ventas, marketing y soporte que ya trabajan dentro del ecosistema Microsoft.  
+- **Analítica avanzada y visión 360° del cliente**: Gracias a la integración con Power BI e inteligencia artificial, el CRM proporciona información predictiva y segmentación avanzada. Esto permite personalizar ofertas, anticipar necesidades y diseñar estrategias de fidelización basadas en datos en tiempo real, un factor crítico para aumentar la conversión y retención en el comercio electrónico.  
+
 
 ## 2. Criterios Económicos (Licencias, Costos y Escalabilidad)
 
@@ -94,6 +97,13 @@ En primer lugar, resulta fundamental considerar los componentes de hardware y so
 # Proceso de implementación ERP
 
 ## 1. Desafíos principales
+
+- **Integración con la plataforma de e-commerce**: Conectar Dynamics 365 CRM con sistemas como Shopify, Magento o WooCommerce puede requerir desarrollos adicionales o módulos específicos, lo cual incrementa la complejidad inicial.  
+- **Gestión del cambio en los equipos**: Los equipos de ventas, marketing y soporte deben acostumbrarse a un flujo de trabajo centralizado en el CRM. Si no se acompaña con capacitación, la resistencia al cambio puede frenar la adopción.  
+- **Personalización avanzada**: Aunque la herramienta es flexible, adaptar procesos específicos del e-commerce tecnológico (renovaciones de suscripciones, garantías extendidas, bundles de productos digitales) puede ser un reto si no se cuenta con consultores expertos.  
+- **Costos de licenciamiento y escalabilidad**: La inversión en Dynamics 365 CRM puede resultar significativa para empresas pequeñas o medianas, especialmente al sumar complementos como Power BI o integraciones con Azure.  
+- **Seguridad y manejo de datos sensibles**: En e-commerce tecnológico, donde se gestionan datos de clientes, licencias y suscripciones, garantizar el cumplimiento de normativas es un desafío constante.  
+
 
 --–  
 
