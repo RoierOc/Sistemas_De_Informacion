@@ -6,6 +6,7 @@
 –  Wilson Franco Martínez
 –  Juan David Alarcon Sanabria
 –  Valentina Gutierrez Pereira
+-  Nicolas Fajardo Ramirez
 
 ## Introducción
 En el sector tecnológico, una rapida respuesta y la capacidad para generar diferenciacion son puntos claves para mantener la competitividad. Las empresas en este ámbito suelen manejar grandes volúmenes de datos, equipos distribuidos globalmente y procesos que cambian rápidamente. Para lograr una buena coordinacion, los **CRM(Customer relationship management )*–  se vuelven una pieza fundamental: nos permiten centralizar la información y permiten una visión integral de la organización.
@@ -73,12 +74,31 @@ Para llevar a cabo una evaluación completa y objetiva del CRM, se consideran lo
 
 ---
 
-## 4. Criterios organizativos 
+## 4. Criterios técnicos
+### 4.1 Plataformas y Bases de Datos Soportadas
+- **Arquitectura cloud-first**: diseñado principalmente para ejecutarse en la nube de **Microsoft Azure**.
+- **Base de datos**: utiliza **Microsoft SQL Server** y **Dataverse**, garantizando confiabilidad, rendimiento y centralización de datos.
+- **Escalabilidad**: soporta desde pequeñas hasta grandes corporaciones, con capacidad de manejar miles de usuarios y grandes volúmenes de datos.
 
+### 4.2 Lenguajes de Programación y Herramientas de Desarrollo
+- **Lenguajes principales**: .NET, C#, JavaScript y TypeScript.
+- **Extensibilidad**:
+  - APIs disponibles: REST, OData y SOAP.
+  - Personalizaciones con **Visual Studio / VS Code**.
+  - Desarrollo de aplicaciones low-code mediante **Power Platform (Power Apps, Power Automate, Power BI)**.
+- **DevOps**: integración con **Azure DevOps** para control de versiones, pruebas y despliegues continuos (CI/CD).
 
+### 4.3  Compatibilidad con Estándares Web
+- **Intercambio de datos**: soporta **XML**, **JSON**, **OData** y **REST**.
+- **EDI (Electronic Data Interchange)**: permite transmisión de facturas, pedidos y documentos con clientes/proveedores.
+- **Seguridad y protocolos**:
+  - Autenticación mediante **OAuth 2.0**.
+  - Comunicación cifrada con **HTTPS**.
+- **Integración nativa**: conexión directa con **Office 365** (Outlook, Excel, Teams).
 ---
 ## 5. Evaluación de proveedores 
 
+Microsoft Dynamics 365 CRM ha sido implementado en empresas de diversos sectores y tamaños, desde medianas hasta corporaciones globales, con fuerte presencia en tecnología, retail, banca y servicios profesionales. A nivel de formación, Microsoft ofrece certificaciones oficiales y programas de capacitación a través de **Microsoft Learn**, además de contar con una red de partners locales en Colombia que facilitan la transferencia de conocimiento y el soporte especializado. Un ejemplo destacado de referencia en implementación es **Coca-Cola**, que adoptó Dynamics 365 CRM para centralizar la gestión de clientes y optimizar procesos de ventas y marketing a nivel global, demostrando su capacidad de escalabilidad y confiabilidad en empresas de gran tamaño y alto volumen de clientes.
 
 ---
 
