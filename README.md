@@ -4,7 +4,7 @@ Grupo:
 - Roger Fabian Bonilla Caro
 - Wilson Franco Martínez
 - Juan David Alarcon Sanabria
-- 
+- Valentina Gutierrez Pereira
 -
 
 ## Introducción
