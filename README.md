@@ -1,5 +1,5 @@
-<img width="838" height="761" alt="image" src="https://github.com/user-attachments/assets/1b7a36a4-1db1-4680-abf0-f4690e138c8f" />## Análisis ERP
-Sector: Tecnología
+# Análisis ERP "Microsoft dynamics 365"
+**Sector: **Tecnología
 Grupo: 
 - Roger Fabian Bonilla Caro
 - Wilson Franco Martínez
