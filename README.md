@@ -1,4 +1,4 @@
-  # Análisis CRM "Microsoft dynamics 365"
+  # Análisis  "Microsoft dynamics 365"
 **Sector:** Tecnología
 **Grupo:**  
 
