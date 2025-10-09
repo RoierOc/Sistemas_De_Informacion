@@ -1,7 +1,9 @@
 # Análisis del video “Diferencias entre ERP y CRM
 
 ---
+
 El video explica los conceptos de **ERP** (Enterprise Resource Planning) y **CRM** (Customer Relationship Management), cuáles son sus funciones, sus diferencias y cómo pueden trabajar juntos para que una empresa aproveche mejor sus recursos.  
+
 ---
 - **ERP**: sistema que ayuda a manejar procesos internos de una empresa — finanzas, inventarios, producción, recursos humanos, etc.  
 - **CRM**: sistema enfocado en la gestión de relaciones con clientes — ventas, seguimiento, marketing, servicio al cliente. 
